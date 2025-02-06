@@ -6,6 +6,10 @@ body {
   background-color:"#FFDEAD";
 }
 
+p.clas {
+  background-color:"#3effff"
+}
+
 h1 {
   color: rgb(125,45,20);
   text-align: center;
